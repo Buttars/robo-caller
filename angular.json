@@ -5,6 +5,7 @@
     "api": "apps/api",
     "api-interfaces": "libs/api-interfaces",
     "robo-caller": "apps/robo-caller",
-    "robo-caller-e2e": "apps/robo-caller-e2e"
+    "robo-caller-e2e": "apps/robo-caller-e2e",
+    "voice-server": "apps/voice-server"
   }
 }
